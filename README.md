@@ -1,7 +1,5 @@
 # Game of Etch A Sketch by Toihid
 
-# demo https://toihid.github.io/etch-a-sketch/
-
 [Project URL](https://toihid.github.io/etch-a-sketch/)
 
 ## Making a ETCH A SKETH game using by javascript, HTML and CSS. User play is game is browser. There will have 2 users aand 9 square to click. The player will win who click on the squares in same row , colum or cross.
