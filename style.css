@@ -1,0 +1,33 @@
+.container {
+  justify-content: space-between;
+  display: flex;
+  max-width: 100%;
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+#sketchArea {
+  display: grid;
+  border: 1px solid grey;
+  margin: 0 auto;
+  flex: 2;
+  aspect-ratio: 1 / 1;
+}
+.instruction {
+  flex: 1;
+  padding-left: 30px;
+}
+.cell {
+  background-color: blueviolet;
+  border: 1px solid grey;
+  margin: 5px;
+  color: #fff;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#result {
+  color: red;
+  font-size: 1.5rem;
+}
